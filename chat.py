@@ -142,7 +142,7 @@ st.markdown(
 st.title("🔊 Voice Assistant Chatbot 🤖")
 st.subheader("💬 Chat, 🧠 Listen, and 📚 Learn!")
 st.write(
-    "Welcome to the enhanced Voice Assistant Chatbot with animations! "
+    "Welcome to the enhanced Voice Assistant Chatbot! "
     "Type your messages below to interact with the bot and listen to its responses."
 )
 
