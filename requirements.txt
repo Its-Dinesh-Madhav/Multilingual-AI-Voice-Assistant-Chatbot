@@ -1,0 +1,6 @@
+gTTS==2.5.4
+langdetect==1.0.9
+protobuf==5.29.2
+python-dotenv==1.0.1
+streamlit==1.41.1
+google-generativeai
